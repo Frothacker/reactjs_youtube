@@ -1,7 +1,7 @@
 # reactjs_youtube
 A youtube copy using only react JS
 
-this project is a product of learning react.
+I made this when learning react.
 
-I followed a udemy tutorial by Stephen Grider from this repo --> https://github.com/StephenGrider/ReduxSimpleStarter 
-
+Thanks to steph grider for teaching udemy tutorial I followed. This is the first project in that course. 
+https://www.udemy.com/the-complete-react-native-and-redux-course/
