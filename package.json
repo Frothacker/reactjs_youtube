@@ -22,10 +22,11 @@
     "jsdom": "^8.1.0",
     "mocha": "^2.4.5",
     "webpack": "^1.12.9",
-    "webpack-dev-server": "^1.14.0"
+    "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
     "babel-preset-stage-1": "^6.1.18",
+    "growl": "^1.10.5",
     "lodash": "^3.10.1",
     "react": "16.3.2",
     "react-dom": "16.3.2",
